@@ -1,0 +1,10 @@
+//import java.util.*;
+class qt
+{
+ public static void main()
+ {
+     Scanner in= new Scanner(System.in);
+     System.out.println("Hello");
+ }
+
+}
